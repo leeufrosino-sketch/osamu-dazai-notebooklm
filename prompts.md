@@ -4,7 +4,6 @@
 
 > Quem foi Osamu Dazai?
 > Faça um resumo simples sobre sua vida, carreira e principais obras.
-> Use apenas as fontes deste notebook.
 
 **Objetivo:** Conhecer o autor.
 
@@ -14,7 +13,6 @@
 
 > Quais são as principais obras de Osamu Dazai?
 > Apresente o nome das obras, o ano de publicação e uma breve explicação sobre cada uma.
-> Use apenas as fontes deste notebook.
 
 **Objetivo:** Conhecer as principais obras do autor.
 
@@ -23,7 +21,7 @@
 ## Prompt 3 — Contexto histórico
 
 > Qual era o contexto histórico e social do Japão durante o período em que Osamu Dazai viveu?
-> Explique de forma simples e use apenas as fontes deste notebook.
+> Explique de forma simples.
 
 **Objetivo:** Entender o período em que Dazai viveu e escreveu.
 
@@ -33,7 +31,6 @@
 
 > Quais são os principais temas presentes nas obras de Osamu Dazai?
 > Explique cada tema de forma simples e indique em quais obras eles aparecem.
-> Use apenas as fontes deste notebook.
 
 **Objetivo:** Identificar os principais temas da literatura de Dazai.
 
@@ -43,7 +40,6 @@
 
 > O que é No Longer Human, de Osamu Dazai?
 > Explique de forma simples quem é o personagem principal, qual é a história e quais são os principais temas da obra.
-> Use apenas as fontes deste notebook.
 
 **Objetivo:** Conhecer melhor uma das principais obras de Dazai.
 
