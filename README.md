@@ -1,5 +1,5 @@
 # Osamu Dazai — Literatura, Identidade e Sociedade
-> **Projeto de estudo com NotebookLM + GitHub** 
+> **Projeto de estudo com NotebookLM + GitHub**
 > Desafio de Projeto — Treinando uma IA de Aprendizagem
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Ferramenta](https://img.shields.io/badge/IA-NotebookLM-4285F4)
@@ -8,10 +8,8 @@
 ## 📌 Sobre o projeto
 
 Este projeto foi criado para estudar o escritor japonês Osamu Dazai
-com a ajuda do NotebookLM.
-
-A pesquisa aborda sua vida, suas principais obras e temas como
-identidade, solidão e relação com a sociedade.
+com a ajuda do NotebookLM. A pesquisa aborda sua vida, suas principais obras e temas como
+identidade, solidão e relação com a sociedade. 
 
 O objetivo é usar o NotebookLM para pesquisar, organizar e entender
 melhor as informações encontradas.
@@ -23,10 +21,6 @@ melhor as informações encontradas.
 - Entender os principais temas de sua literatura;
 - Usar o NotebookLM para ajudar na pesquisa;
 - Organizar o que foi aprendido.
-
-## 🔎 Pergunta principal
-
-> Como Osamu Dazai apresenta temas como identidade, pertencimento e relação entre indivíduo e sociedade em suas obras?
 
 ## 🤖 Uso do NotebookLM
 
