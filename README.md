@@ -39,38 +39,63 @@ O NotebookLM será utilizado para:
 - Organizar os estudos.
 
 ```markdown
-## 📚 Curadoria de fontes
+## 📚 Fontes
 
-Foram selecionadas fontes com diferentes funções dentro da pesquisa,
-buscando combinar informações biográficas, fontes primárias,
-estudos acadêmicos e contexto histórico-literário.
+Foram escolhidas 5 fontes em português e inglês.
 
-| Fonte | Tipo | Objetivo |
-|---|---|---|
-| National Diet Library | Institucional | Biografia e trajetória |
-| Aozora Bunko | Fonte literária | Consulta ao texto original |
-| Estudo acadêmico sobre No Longer Human | Artigo acadêmico | Análise literária |
-| Estudo sobre Dazai no pós-guerra | Artigo acadêmico | Contexto literário |
-| Estudo sobre literatura japonesa do pós-guerra | Artigo acadêmico | Contexto histórico |
+As fontes incluem materiais da National Diet Library, Fundação Japão, Universidade de São Paulo e um artigo acadêmico sobre *No Longer Human*.
 
-As referências completas estão disponíveis na pasta
-[`fontes`](./fontes/referencias.md).
+As referências estão disponíveis em:
+
+**[pesquisa-fontes/referencias.md](./pesquisa-fontes/referencias.md)**
 
 ## 🧠 Engenharia de Prompts
 
-Durante o projeto, foram testadas perguntas simples e posteriormente
-aprimoradas para obter respostas mais específicas e fundamentadas.
+Durante o projeto foram utilizadas perguntas simples e perguntas mais detalhadas.
 
-### Prompt inicial
+O objetivo foi perceber como a forma de fazer uma pergunta pode mudar a resposta do NotebookLM.
 
-> Quem foi Osamu Dazai?
+Os prompts utilizados estão disponíveis em:
 
-### Prompt aprimorado
+**[prompts](./prompts/)**
 
-> Com base exclusivamente nas fontes fornecidas, apresente uma
-> síntese da trajetória de Osamu Dazai. Separe claramente fatos
-> biográficos de interpretações presentes nas fontes e indique
-> quais fontes sustentam cada informação.
+## 🔎 Cicatrizes
 
-O processo de aprimoramento buscou aumentar a precisão, o contexto
-e a rastreabilidade das respostas.
+Durante os testes serão registrados problemas encontrados nas respostas do NotebookLM e as mudanças feitas nos prompts para melhorar os resultados.
+
+Os testes estão disponíveis em:
+
+**[cicatrizes/testes-e-melhorias.md](./cicatrizes/testes-e-melhorias.md)**
+
+## 📖 Miniguia
+
+O conteúdo aprendido foi organizado em um pequeno guia de estudos.
+
+- [Biografia](./miniguia/01-biografia.md)
+- [Contexto histórico](./miniguia/02-contexto-historico.md)
+- [Principais obras](./miniguia/03-principais-obras.md)
+- [Temas centrais](./miniguia/04-temas-centrais.md)
+- [No Longer Human](./miniguia/05-no-longer-human.md)
+- [Glossário](./miniguia/06-glossario.md)
+- [Perguntas de revisão](./miniguia/07-revisao.md)
+
+## ♻️ Prompts reutilizáveis
+
+Também foram criados prompts que podem ser utilizados novamente para estudar outros autores, livros ou assuntos.
+
+Eles estão disponíveis em:
+
+**[prompts/prompts-reutilizaveis.md](./prompts/prompts-reutilizaveis.md)**
+
+## 💡 O que aprendi
+
+O projeto mostrou que fazer perguntas mais específicas ajuda a conseguir respostas mais úteis.
+
+Também foi importante conferir as informações nas fontes e não aceitar automaticamente tudo o que a IA apresenta.
+
+## 🖤 Conclusão
+
+O NotebookLM foi utilizado como uma ferramenta para ajudar na pesquisa, organização e revisão do conteúdo.
+
+O projeto mostra como uma IA pode ajudar nos estudos quando é utilizada junto com boas fontes e pensamento crítico.
+
