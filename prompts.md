@@ -51,3 +51,14 @@
 > Explique de forma simples e apresente exemplos encontrados nas fontes.
 
 **Objetivo:** Aprofundar a análise da obra.
+
+---
+
+## Prompt 7 — Comparação
+
+>> Quais informações aparecem em mais de uma fonte?
+> Existem diferenças entre as fontes?
+> Explique de forma simples.
+
+**Objetivo:** Comparar as informações.
+
