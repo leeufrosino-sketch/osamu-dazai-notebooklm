@@ -1,4 +1,4 @@
-# 📚 Fontes utilizadas
+# Fontes utilizadas
 
 As fontes utilizadas no projeto estão em português ou inglês.
 
