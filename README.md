@@ -47,7 +47,7 @@ As fontes incluem materiais da National Diet Library, Fundação Japão, Univers
 
 As referências estão disponíveis em:
 
-**[referencias.md](./pesquisa-fontes/referencias.md)**
+**[fontes/referencias.md](./fontes/referencias.md)**
 
 ## 🧠 Engenharia de Prompts
 
