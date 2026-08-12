@@ -62,3 +62,23 @@
 
 **Objetivo:** Comparar as informações.
 
+# ♻️ Prompts reutilizáveis para futuras revisões
+
+## 1. Revisão geral
+
+> Faça uma revisão sobre Osamu Dazai.
+> Apresente os pontos mais importantes de forma simples.
+
+---
+
+## 2. Perguntas para estudar
+
+> Crie 10 perguntas sobre O contexto histórico de Osamu Dazai, começando pelas mais fáceis e aumentando a dificuldade.
+> Coloque as respostas no final.
+
+---
+
+## 3. Resumo
+
+> Resuma o conteúdo sobre o livro No Longer Human em tópicos curtos.
+> Destaque apenas as informações mais importantes.
