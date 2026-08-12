@@ -62,7 +62,7 @@
 
 **Objetivo:** Comparar as informações.
 
-# ♻️ Prompts reutilizáveis para futuras revisões
+# Prompts reutilizáveis para futuras revisões
 
 ## 1. Revisão geral
 
