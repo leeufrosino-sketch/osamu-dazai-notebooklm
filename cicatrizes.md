@@ -20,11 +20,14 @@ Passei a pedir ao NotebookLM para indicar claramente qual fonte apresenta cada i
 
 > O NotebookLM não apresentou outros erros e respondeu perfeitamente.
 
-Resultado:
+**Resultado:**
+
 A resposta foi adequada e apresentou as principais informações.
 
-Problema:
+**Problema:**
+
 A resposta ficou um pouco geral.
 
-Melhoria:
+**Melhoria:**
+
 Pedi que o NotebookLM apresentasse exemplos e indicasse as fontes.
