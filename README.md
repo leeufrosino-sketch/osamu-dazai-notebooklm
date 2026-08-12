@@ -33,6 +33,7 @@ O NotebookLM será utilizado para:
 - Organizar os estudos.
 
 ```markdown
+
 ## Fontes
 
 Foram utilizadas fontes em português e inglês.
