@@ -18,7 +18,7 @@ Passei a pedir ao NotebookLM para indicar claramente qual fonte apresenta cada i
 
 ## Cicatriz 2 
 
-> O NotebookLM não apresentou outros erros e respondeu perfeitamente.
+O NotebookLM não apresentou outros erros e respondeu perfeitamente.
 
 **Resultado:**
 
