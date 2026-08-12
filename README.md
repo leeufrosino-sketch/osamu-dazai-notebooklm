@@ -36,11 +36,13 @@ O NotebookLM será utilizado para:
 
 Foram utilizadas fontes em português e inglês.
 
+As fontes foram escolhidas para apresentar diferentes informações sobre Osamu Dazai, como sua vida, carreira, obras e análises literárias.
+
 As fontes utilizadas na pesquisa estão no arquivo `fontes.md`.
 
 ## Prompts
 
-Foram criados prompts para pesquisar Osamu Dazai e analisar suas obras.
+Foram utilizados 7 prompts para pesquisar Osamu Dazai e analisar suas obras.
 
 Os prompts utilizados estão no arquivo `prompts.md`.
 
