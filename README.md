@@ -37,29 +37,25 @@ O NotebookLM será utilizado para:
 
 Foram utilizadas fontes em português e inglês.
 
-As fontes utilizadas estão descritas no arquivo:
-
-**[fontes.md](./fontes.md)**
+As fontes utilizadas na pesquisa estão no arquivo `fontes.md`.
 
 ## Prompts
 
 Foram criados prompts para pesquisar Osamu Dazai e analisar suas obras.
 
-Eles estão disponíveis em:
-
-**[prompts.md](./prompts.md)**
+Os prompts utilizados estão no arquivo `prompts.md`.
 
 ## Cicatrizes
 
 Nesta parte serão registrados problemas encontrados durante os testes e as melhorias feitas nos prompts.
 
-**[cicatrizes.md](./cicatrizes.md)**
+Os testes, resultados e melhorias estão no arquivo `cicatrizes.md`.
 
 ## Miniguia
 
 O conteúdo aprendido durante a pesquisa foi organizado em um pequeno guia.
 
-**[miniguia.md](./miniguia.md)**
+O conteúdo estudado sobre Osamu Dazai está no arquivo `miniguia.md`.
 
 ## O que aprendi
 
