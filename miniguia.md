@@ -30,8 +30,65 @@ Publicada em 1948.
 
 A obra acompanha Ōba Yōzō e apresenta questões relacionadas à identidade e ao relacionamento com a sociedade.
 
+
 ### The Setting Sun
 
 Também conhecida como Shayō ou Pôr-do-sol.
 
 Foi publicada em 1947.
+
+---
+
+
+## 4. Temas centrais
+
+### Identidade
+
+A identidade aparece como um elemento importante para compreender os personagens.
+
+### Pertencimento
+
+A dificuldade de se sentir parte da sociedade aparece em algumas obras.
+
+### Sociedade
+
+As expectativas sociais podem entrar em conflito com os indivíduos.
+
+### Vergonha
+
+O conceito japonês de haji, relacionado à vergonha, é utilizado em uma análise acadêmica de No Longer Human.
+
+### Conflito
+
+Os personagens podem ser analisados a partir de conflitos entre o indivíduo e as expectativas sociais.
+
+---
+
+
+## 5. No Longer Human
+
+No Longer Human, originalmente Ningen Shikkaku, foi publicado em 1948.
+
+O personagem principal é Ōba Yōzō.
+
+A obra apresenta questões relacionadas à identidade, pertencimento e relação com a sociedade.
+
+Uma questão importante para analisar a obra é a dificuldade do personagem de se sentir integrado à sociedade.
+
+---
+
+## 6. Glossário
+
+**Identidade:** maneira como uma pessoa ou personagem entende quem é.
+
+**Pertencimento:** sensação de fazer parte de um grupo ou sociedade.
+
+**Contexto histórico:** acontecimentos e condições de uma determinada época.
+
+**Literatura:** produção artística feita por meio da linguagem.
+
+**Prompt:** pergunta ou instrução enviada para uma inteligência artificial.
+
+**NotebookLM:** ferramenta utilizada para estudar informações a partir de fontes fornecidas.
+
+**Haji:** termo japonês relacionado à vergonha.
