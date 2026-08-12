@@ -22,7 +22,7 @@ melhor as informações encontradas.
 - Usar o NotebookLM para ajudar na pesquisa;
 - Organizar o que foi aprendido.
 
-## 🔎 Pergunta principal
+## Pergunta principal
 
 > Como Osamu Dazai apresenta temas como identidade, pertencimento e relação entre indivíduo e sociedade em suas obras?
 
