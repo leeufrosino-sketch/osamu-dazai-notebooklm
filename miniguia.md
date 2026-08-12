@@ -73,8 +73,6 @@ Os personagens podem ser analisados a partir de conflitos entre o indivíduo e a
 
 No Longer Human, originalmente Ningen Shikkaku, foi publicado em 1948.
 
-O personagem principal é Ōba Yōzō.
-
 A obra apresenta questões relacionadas à identidade, pertencimento e relação com a sociedade.
 
 Uma questão importante para analisar a obra é a dificuldade do personagem de se sentir integrado à sociedade.
