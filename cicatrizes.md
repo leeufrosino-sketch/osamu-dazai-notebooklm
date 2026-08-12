@@ -15,3 +15,16 @@ Percebi que cada fonte possui um foco diferente e que comparar várias fontes aj
 **Melhoria:**
 
 Passei a pedir ao NotebookLM para indicar claramente qual fonte apresenta cada informação.
+
+## Cicatriz 2 
+
+> O NotebookLM não apresentou erros e respondeu perfeitamente.
+
+Resultado:
+A resposta foi adequada e apresentou as principais informações.
+
+Problema:
+A resposta ficou um pouco geral.
+
+Melhoria:
+Pedi que o NotebookLM apresentasse exemplos e indicasse as fontes.
