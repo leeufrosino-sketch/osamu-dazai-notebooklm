@@ -37,8 +37,12 @@ Também conhecida como Shayō ou Pôr-do-sol.
 
 Foi publicada em 1947.
 
----
 
+### Gyakko (Contra a Corrente)
+
+Publicada em **1935**, *Gyakko* foi indicada ao **Prêmio Akutagawa** e marcou uma fase inicial da carreira literária de Osamu Dazai.
+
+---
 
 ## 4. Temas centrais
 
@@ -87,8 +91,8 @@ Uma questão importante para analisar a obra é a dificuldade do personagem de s
 
 **Literatura:** produção artística feita por meio da linguagem.
 
-**Prompt:** pergunta ou instrução enviada para uma inteligência artificial.
+## 7. Conclusão
 
-**NotebookLM:** ferramenta utilizada para estudar informações a partir de fontes fornecidas.
+Osamu Dazai foi um escritor japonês importante cuja literatura permite discutir temas como identidade, pertencimento e relação entre indivíduo e sociedade.
 
-**Haji:** termo japonês relacionado à vergonha.
+O estudo com o NotebookLM ajudou a organizar informações, comparar fontes e criar perguntas para aprofundar a pesquisa.
